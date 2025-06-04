@@ -12,7 +12,7 @@ I am a software engineer dedicated to big data, cloud-native technologies, and g
 
 ##  Languages I use
 
-[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift&theme=light)](https://skillicons.dev)
 
 
 
