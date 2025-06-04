@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sunyuhan1998/sunyuhan1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/sunyuhan1998"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=330&lines=Hi!+I'm+Sun+Yuhan!" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I am a software engineer dedicated to big data, cloud-native technologies, and generative AI.
+
+* 😄 I'm interested in contributing to open source projects and I'm currently giving it a try.
+
+##  Languages I use
+
+[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go&theme=light)](https://skillicons.dev)
+
+
+
