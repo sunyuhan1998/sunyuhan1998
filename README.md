@@ -9,7 +9,7 @@
 I am a software engineer dedicated to big data 📊, cloud-native ☁️ , and generative AI 🧠.
 
 * 😄 I'm interested in contributing to open source projects and I'm currently giving it a try.
-* ⚡️ I'm interested in almost all kinds of digital products.
+* ⚡️ I'm interested in almost all kinds of digital devices.
 
 ##  Languages I use
 
