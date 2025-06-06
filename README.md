@@ -24,5 +24,6 @@ I am a software engineer dedicated to big data 📊, cloud-native ☁️ , and g
 ![](https://img.shields.io/badge/-spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-swiftui-F05138?style=for-the-badge&logo=swift&logoColor=FFFFFF)
 
 
