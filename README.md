@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://github.com/sunyuhan1998"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=330&lines=Hi!+I'm+Sun+Yuhan!" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"/><a href="https://github.com/sunyuhan1998"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=700&size=40&pause=2000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sun+Yuhan!" alt="Typing SVG" /></a>
 
 </div>
 
@@ -15,7 +15,7 @@ I am a software engineer dedicated to big data 📊, cloud-native ☁️ , and g
 
 [![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift&theme=light)]([https://skillicons.dev](https://github.com/sunyuhan1998))
 
-##  Frameworks I use
+##  Frameworks and tools I use
 
 ![](https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
