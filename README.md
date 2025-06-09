@@ -6,10 +6,13 @@
 
 ## About me
 
-I am a software engineer dedicated to big data 📊, cloud-native ☁️ , and generative AI 🧠.
+I am a software engineer dedicated to big data 📊, cloud-native technologies ☁️, and the integration of AI 🧠 with practical applications.
 
-* 😄 I'm interested in contributing to open source projects and I'm currently giving it a try.
+* 😄 I'm interested in contributing to open source projects.
 * ⚡️ I'm interested in almost all kinds of digital devices.
+
+▼ 2025
+* Spring AI
 
 ##  Languages I use
 
