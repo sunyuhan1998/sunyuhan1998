@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"/><a href="https://github.com/sunyuhan1998"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=700&size=40&pause=2000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sun+Yuhan!" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"/><a href="https://github.com/sunyuhan1998"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=40&pause=2000&center=true&vCenter=true&width=700&lines=Hi%2CI'm+Sun+Yuhan!" alt="Typing SVG" /></a>
 
 </div>
 
