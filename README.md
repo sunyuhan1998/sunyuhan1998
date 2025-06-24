@@ -13,6 +13,7 @@ I am a software engineer dedicated to big data 📊, cloud-native technologies �
 
 ▼ 2025
 * Spring AI
+* MCP
 
 ##  Languages I use
 
