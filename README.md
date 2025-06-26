@@ -14,6 +14,7 @@ I am a software engineer dedicated to big data 📊, cloud-native technologies �
 ▼ 2025
 * Spring AI
 * MCP
+* A2A
 
 ##  Languages I use
 
