@@ -14,8 +14,9 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 
 🎮 A cross-platform gaming enthusiast with a passion for game history and console evolution.
 
+## 🚀 Open Source Contributions
 
-▼ 2025
+### ▼ 2025
 * Spring AI
 * MCP
 * A2A
