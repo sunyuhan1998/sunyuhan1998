@@ -4,12 +4,16 @@
 
 </div>
 
-## About me
+## 🧑‍💻 About me
 
-I am a software engineer dedicated to big data 📊, cloud-native technologies ☁️, and the integration of AI 🧠 with practical applications.
+I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Technologies** ☁️, and the seamless integration of **AI into real-world applications** 🧠. My goal is to build scalable, intelligent systems that drive innovation and solve meaningful problems.
 
-* 😄 I'm interested in contributing to open source projects.
-* ⚡️ I'm interested in almost all kinds of digital devices.
+😄 I enjoy contributing to open-source projects and collaborating with passionate developers around the world.
+
+⚡️ I have a strong interest in almost all kinds of digital devices and emerging technologies.
+
+🎮 A cross-platform gaming enthusiast with a passion for game history and console evolution.
+
 
 ▼ 2025
 * Spring AI
