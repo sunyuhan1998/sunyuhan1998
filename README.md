@@ -14,18 +14,11 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 
 🎮 A cross-platform gaming enthusiast with a passion for game history and console evolution.
 
-## 🚀 Open Source Contributions
-
-### ▼ 2025
-* Spring AI
-* MCP
-* A2A
-
-##  Languages I use
+##  🔤 Languages I use
 
 [![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift&theme=light)]([https://skillicons.dev](https://github.com/sunyuhan1998))
 
-##  Frameworks and tools I use
+##  🔧 Frameworks and tools I use
 
 ![](https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
@@ -36,4 +29,9 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 ![](https://img.shields.io/badge/-langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-swiftui-F05138?style=for-the-badge&logo=swift&logoColor=FFFFFF)
 
+## 🚀 Open Source Contributions
 
+### ▼ 2025
+* Spring AI
+* MCP
+* A2A
