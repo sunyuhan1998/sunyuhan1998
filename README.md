@@ -35,3 +35,4 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 * Spring AI
 * MCP
 * A2A
+* langchain4j
