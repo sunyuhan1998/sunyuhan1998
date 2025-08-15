@@ -16,7 +16,7 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 
 ##  🔤 Languages I use
 
-[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift&theme=light)]([https://skillicons.dev](https://github.com/sunyuhan1998))
+[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift,c#&theme=light)]([https://skillicons.dev](https://github.com/sunyuhan1998))
 
 ##  🔧 Frameworks and tools I use
 
