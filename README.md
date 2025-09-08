@@ -32,10 +32,10 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 ## 🌟 Open Source Contributions
 
 ### ▼ 2025
-* Spring AI
-* MCP
-* A2A
-* langchain4j
+* <img src="https://avatars.githubusercontent.com/u/190035333?s=40&v=4" width="25px"> <b>Spring AI</b> 
+* <img src="https://avatars.githubusercontent.com/u/182288589?s=40&v=4" width="25px"> <b>MCP</b>
+* <img src="https://avatars.githubusercontent.com/u/217270365?s=40&v=4" width="25px"> <b>A2A</b>
+* <img src="https://avatars.githubusercontent.com/u/132277850?s=40&v=4" width="25px"> <b>Langchain4j</b>
 
 ## 📧 Connect with me
 
