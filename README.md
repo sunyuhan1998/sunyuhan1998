@@ -12,7 +12,7 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 
 ⚡️ I have a strong interest in almost all kinds of digital devices and emerging technologies.
 
-🎮 A cross-platform gaming enthusiast with a passion for game history and console evolution.
+🎮 A cross-platform gaming enthusiast with a passion for game history and console evolution. 
 
 ##  🔤 Languages I use
 
@@ -29,10 +29,17 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 ![](https://img.shields.io/badge/-langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-swiftui-F05138?style=for-the-badge&logo=swift&logoColor=FFFFFF)
 
-## 🚀 Open Source Contributions
+## 🌟 Open Source Contributions
 
 ### ▼ 2025
 * Spring AI
 * MCP
 * A2A
 * langchain4j
+
+## 📧 Connect with me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sunyuhan1998@gmail.com)](mailto:sunyuhan1998@gmail.com)
+[![QQMail Badge](https://img.shields.io/badge/QQMail-1EBAFC?style=for-the-badge&logo=QQ&logoColor=white&link=mailto:sunyuhan1998@qq.com)](mailto:sunyuhan1998@qq.com)
+ 
+
