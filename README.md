@@ -16,18 +16,19 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 
 ##  🔤 Languages I use
 
-[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift,c#&theme=light)]([https://skillicons.dev](https://github.com/sunyuhan1998))
+[![My Skills](https://skillicons.dev/icons?i=java,scala,python,go,swift,cs&theme=light)]([https://skillicons.dev](https://github.com/sunyuhan1998))
 
 ##  🔧 Frameworks and tools I use
 
-![](https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-swiftui-F05138?style=for-the-badge&logo=swift&logoColor=FFFFFF)
+![kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
+![docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![hadoop](https://img.shields.io/badge/-hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=FFFFFF)
+![hive](https://img.shields.io/badge/-hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=FFFFFF)
+![spark](https://img.shields.io/badge/-spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=FFFFFF)
+![spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF)
+![langchain](https://img.shields.io/badge/-langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF)
+![swiftui](https://img.shields.io/badge/-swiftui-F05138?style=for-the-badge&logo=swift&logoColor=FFFFFF)
+![unity](https://img.shields.io/badge/-unity-36566F?style=for-the-badge&logo=unity&logoColor=FFFFFF)
 
 ## 🌟 Open Source Contributions
 
