@@ -34,6 +34,9 @@ I'm a software engineer passionate about **Big Data** 📊, **Cloud-Native Techn
 
 ## 🌟 Open Source Contributions
 
+### ▼ 2026
+* <b>Gravitino</b>
+
 ### ▼ 2025
 * <b>Spring AI</b> 
 * <b>MCP</b>
